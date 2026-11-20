@@ -351,7 +351,7 @@ window.PORTFOLIO_DATA = {
     {
       "title": "Nominated for the President's Gold Medal",
       "detail": "Khulna University of Engineering & Technology (KUET)",
-      "date": "January 2027 (as listed in CV)"
+      "date": "January 2027"
     },
     {
       "title": "Four-times Deans’ List Award",
