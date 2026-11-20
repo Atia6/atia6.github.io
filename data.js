@@ -152,7 +152,7 @@ window.PORTFOLIO_DATA = {
       "points": [
         "Based on undergraduate thesis."
       ],
-      "url": "",
+      "url": "https://ieeexplore.ieee.org/document/10798428",
       "doi": "",
       "authors": ""
     },
@@ -167,7 +167,7 @@ window.PORTFOLIO_DATA = {
         "Integrated embedding-based retrieval with translative prompting.",
         "Designed context-conditioned candidate-answer selection with human-in-the-loop evaluation."
       ],
-      "url": "",
+      "url": "https://aclanthology.org/2025.lm4uc-1.2/",
       "doi": "",
       "authors": ""
     },
@@ -182,7 +182,7 @@ window.PORTFOLIO_DATA = {
         "Incorporated image preprocessing and lightweight model quantization.",
         "Benchmarked against convolutional and transformer architectures."
       ],
-      "url": "",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11503926",
       "doi": "",
       "authors": ""
     },
@@ -197,7 +197,7 @@ window.PORTFOLIO_DATA = {
         "Integrated lexical normalization with POS-based anaphora resolution.",
         "Combined supervised query categorization with ensemble similarity-based retrieval."
       ],
-      "url": "",
+      "url": "https://arxiv.org/pdf/2608.28329",
       "doi": "",
       "authors": ""
     },
@@ -212,7 +212,7 @@ window.PORTFOLIO_DATA = {
         "Engineered a PWM-actuated electromagnetic docking interface with state-based deployment interlocks.",
         "Integrated ESP32-based rover control, wireless video telemetry, and emergency payload delivery."
       ],
-      "url": "",
+      "url": "https://www.researchgate.net/publication/417762413_A_Collaborative_UAV-UGV_Heterogeneous_System_for_Enhanced_Search_and_Rescue_in_Complex_Disaster_Environments#fullTextFileContent",
       "doi": "",
       "authors": ""
     }
@@ -227,7 +227,7 @@ window.PORTFOLIO_DATA = {
         "PEFT",
         "LoRA"
       ],
-      "url": ""
+      "url": "https://github.com/Atia6/Fake_News_Detection/tree/main"
     },
     {
       "category": "Software",
@@ -237,7 +237,7 @@ window.PORTFOLIO_DATA = {
         "SQL",
         "PostgreSQL"
       ],
-      "url": ""
+      "url": "https://sites.google.com/view/atia-shahnaz-ipa/projects_1/data-science/famous-painting-analysis-with-sql"
     },
     {
       "category": "Hardware",
