@@ -148,7 +148,7 @@ window.PORTFOLIO_DATA = {
       "title": "BdSentiLLM: A Novel LLM Approach to Sentiment Analysis of Product Reviews",
       "venue": "IEEE Access",
       "year": "2024",
-      "meta": "IF: 4.2 · Q1 (as provided)",
+      "meta": "IF: 4.2 · Q1 ",
       "points": [
         "Based on undergraduate thesis."
       ],
